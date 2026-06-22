@@ -7,7 +7,6 @@ class Solution {
                 if(j!=i && nums[j]<nums[i]){
                     count++;
                 }
-            
             }
             out[i]=count;
         }
